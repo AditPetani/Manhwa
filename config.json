@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["6283129240927@s.whatsapp.net"],
+    "ownerName": "Mann",
+    "instagram" : "https://instagram.com/man_arthaa",
+    "gcwa" : "https://chat.whatsapp.com/JwU3yowpoDR0DervnRFCAK",
+    "botName": "Man - MD",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "UZMV4K6G",
+    "OpenAIKey": "your openai key",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 10
+    }
+}
